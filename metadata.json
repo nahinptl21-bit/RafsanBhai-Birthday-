@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday Rafsan Bhai! 🎉",
+  "description": "A vibrant celebration for Rafsan Bhai featuring dynamic confetti, personalized messages, memories gallery, upbeat party music, and heartfelt guestbook notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
